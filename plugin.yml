@@ -1,0 +1,18 @@
+name: ReportBugSystem
+main: zekha\ReportBugSystem\Load
+api: 4.0.0
+version: 1.0.0
+author: "zekha"
+
+virions:
+- UpdateNotifier
+- ConfigUpdater
+
+commands:
+  bug:
+    description: "Report Bug In The Server"
+    permission: use.b
+permissions:
+  use.b:
+    default: true
+    description: "A Permission To Use A /bug command"
