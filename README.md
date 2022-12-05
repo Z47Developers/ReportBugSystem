@@ -5,6 +5,8 @@
   What is Report Bug System?
   ReportBugSystem it can do when you report a Bug Plugin/Feature it will send message to discord server. 
 
+  <img
+
 # how to use?
 
 copy discord webhook link then paste in config at api.
