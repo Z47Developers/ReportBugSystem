@@ -5,7 +5,9 @@
   What is Report Bug System?
   ReportBugSystem it can do when you report a Bug Plugin/Feature it will send message to discord server. 
 
-  <img
+  <img src="https://github.com/Z47Developers/ReportBugSystem/blob/main/pitcure/pitcure1.jpg" width="2340" height="200" >
+  <img src="https://github.com/Z47Developers/ReportBugSystem/blob/main/pitcure/pitcure2.jpg" width="2340" height="200" >
+  <img src="https://github.com/Z47Developers/ReportBugSystem/blob/main/pitcure/pitcure3.jpg" width="2350" height="200" >
 
 # how to use?
 
