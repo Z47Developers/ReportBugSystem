@@ -12,6 +12,7 @@ copy discord webhook link then paste in config at api.
 
 #enter webhook link
 api: ""
+#example api: https://discord.com/api/webhooks/1049289263126171758/4MqEetJt2fmR6-Jb6K9IPgxnDvj6JCRIHdrx2IirSooNDGYspYiXD2HAirEkyUmYYFV2
 ```
 ``` yaml
 
