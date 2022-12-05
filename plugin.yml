@@ -2,7 +2,8 @@ name: ReportBugSystem
 main: zekha\ReportbugSystem\Load
 api: 4.0.0
 version: 1.0.0
-author: "zekha"
+author: zekha
+website https://github.com/Z47Developers
 
 virions:
 - UpdateNotifier
