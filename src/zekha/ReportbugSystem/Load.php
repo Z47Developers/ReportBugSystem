@@ -59,7 +59,7 @@ class Load extends PluginBase implements Listener {
             $e=new Embed();
             $index=$data[1];
             $e->setTitle("Report Bug");
-            $e->setDescription("[Player Name: {$data[1]}]   [Plugin Name: {$data[2]}]    [Reason: {$data[3]}]");
+            $e->setDescription("[Reported By: {$data[1]}]   [Plugin/Feature Name: {$data[2]}]    [Reason: {$data[3]}]");
             $msg->addEmbed($e);
             $web->send($msg);
             $player->sendMessage(TE::GREEN."Bug was sent");
