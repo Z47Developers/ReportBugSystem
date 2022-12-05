@@ -3,11 +3,7 @@ main: zekha\ReportbugSystem\Load
 api: 4.0.0
 version: 1.0.0
 author: zekha
-website https://github.com/Z47Developers
-
-virions:
-- UpdateNotifier
-- ConfigUpdater
+website: https://github.com/Z47Developers
 
 commands:
   bug:
