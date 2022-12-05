@@ -1,5 +1,5 @@
 name: ReportBugSystem
-main: zekha\ReportBugSystem\Load
+main: zekha\ReportbugSystem\Load
 api: 4.0.0
 version: 1.0.0
 author: "zekha"
@@ -11,8 +11,8 @@ virions:
 commands:
   bug:
     description: "Report Bug In The Server"
-    permission: use.b
+    permission: use.reportbug
 permissions:
-  use.b:
+  use.reportbug:
     default: true
     description: "A Permission To Use A /bug command"
