@@ -13,6 +13,11 @@ copy discord webhook link then paste in config at api.
 #enter webhook link
 api: ""
 ```
+``` yaml
+
+#command
+command: /bug
+```
 
 # how to get webhook link?
  - 1.go to discord server you want create.
