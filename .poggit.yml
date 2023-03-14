@@ -6,5 +6,4 @@ branches:
 projects:
   ReportBugSystem:
     icon: icon.png
-    path: ""
 ...
