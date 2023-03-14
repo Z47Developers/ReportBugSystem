@@ -2,7 +2,9 @@
 build-by-default: true
 branches:
 - main
+- PM4
 projects:
   ReportBugSystem:
-    path: "icon.png"
+    icon: icon.png
+    path: ""
 ...
